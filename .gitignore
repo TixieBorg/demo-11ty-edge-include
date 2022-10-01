@@ -1,0 +1,12 @@
+_site/
+node_modules/
+
+
+# Local Netlify folder
+.netlify
+
+# Eleventy Edge Build Data files
+netlify/edge-functions/_generated
+
+# Editor
+.vscode
